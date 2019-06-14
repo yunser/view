@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+.editor-box {
+    position: relative;
+}
+.editor {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    width: 800px;
+    height: 800px;
+    border: 1px solid #f00;
+}
